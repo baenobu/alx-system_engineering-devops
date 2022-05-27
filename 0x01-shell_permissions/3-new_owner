@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-!#/bin/bash
-=======
-#!/bin/bash
->>>>>>> b254c7d7a2f15e54261996baa77076a463c78a99
-chown betty hello
